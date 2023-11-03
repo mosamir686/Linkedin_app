@@ -1,4 +1,4 @@
-# october_assignment
+# linked_in
 
 A new Flutter project.
 
